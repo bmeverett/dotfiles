@@ -117,7 +117,6 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 export PATH="$HOME/.symfony/bin:$PATH"
 export KUBE_EDITOR="code -w"
 export PATH="/usr/local/bin:$PATH"
-export NPM_TOKEN=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
 export GOPATH="$HOME/go"
 export PATH=$GOPATH/bin:$PATH
 export EDITOR="code -w"
